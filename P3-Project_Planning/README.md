@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* [Week View](/images/weekView.png)
-* [Month View](/images/monthView.png)
-* [Add Cleaning](/images/newCleaning.png)
+* [Week View](/P3-Project_Planning/images/weekView.png)
+* [Month View](/P3-Project_Planning/images/monthView.png)
+* [Add Cleaning](/P3-Project_Planning/images/newCleaning.png)
 
 ### Project Tracker
 
